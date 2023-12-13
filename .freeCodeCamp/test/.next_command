@@ -25,3 +25,4 @@ echo hello bash
 touch questionnaire.sh
 echo hello questionnaire
 echo hello questionnaire
+sh questionnaire.sh
