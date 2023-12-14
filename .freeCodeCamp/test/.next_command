@@ -198,3 +198,4 @@ N=$(( RANDOM % 6 ))
 help
 help function
 ./fortune.sh
+./fortune.sh
