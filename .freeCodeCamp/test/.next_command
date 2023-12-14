@@ -86,3 +86,6 @@ git push
 ./countdown.sh 5,5,6
 ./countdown.sh 5,5,6,
 ./countdown.sh arg1 arg2 arg3
+echo $2
+./countdown.sh arg1 arg2 arg3
+echo $1
