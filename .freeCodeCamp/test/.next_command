@@ -216,3 +216,4 @@ help [[
 [[ $VAR == "hello world" ]]
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
+./fortune.sh
