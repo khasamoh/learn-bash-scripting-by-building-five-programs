@@ -197,3 +197,4 @@ declare -p ARR
 N=$(( RANDOM % 6 ))
 help
 help function
+./fortune.sh
