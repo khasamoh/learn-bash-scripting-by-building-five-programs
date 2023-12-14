@@ -211,3 +211,6 @@ help [[
 [[ "hello world" =~ ^h.+d$ ]]
 VAR="hello world"
 echo $VAR
+$VAR == "hello world"
+help [[
+[[ $VAR == "hello world" ]]
