@@ -222,3 +222,4 @@ help [[
 touch five.sh
 chmd +x five.sh
 chmod +x five.sh
+./five.sh
