@@ -218,3 +218,4 @@ help [[
 [[ test? =~ \?$ ]]
 ./fortune.sh
 ./fortune.sh
+./fortune.sh
