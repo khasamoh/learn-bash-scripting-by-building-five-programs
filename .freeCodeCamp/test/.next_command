@@ -194,3 +194,4 @@ echo ${ARR[1]}
 echo ${ARR[@]}
 declare -p ARR
 ./fortune.sh
+N=$(( RANDOM % 6 ))
