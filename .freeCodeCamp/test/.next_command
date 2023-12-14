@@ -82,3 +82,4 @@ man echo
 touch countdown.sh
 chmod +x countdown.sh
 git push
+./countdown.sh
