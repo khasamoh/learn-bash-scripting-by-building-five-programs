@@ -64,3 +64,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 chmode +x
 chmode +x questionnaire.sh
 chmod +x questionnaire.sh
+ls --color=auto -l
