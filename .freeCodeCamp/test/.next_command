@@ -125,3 +125,4 @@ bad_file.txt
 ls --color=auto -l countdown.sh
 [[ -x bad_file.txt ]]
 [[ -x countdown.sh ]]
+help [[
