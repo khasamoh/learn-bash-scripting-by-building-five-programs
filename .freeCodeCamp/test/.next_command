@@ -220,3 +220,5 @@ help [[
 ./fortune.sh
 ./fortune.sh
 touch five.sh
+chmd +x five.sh
+chmod +x five.sh
